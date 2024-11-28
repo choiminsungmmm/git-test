@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+       Scanner sc = new Scanner(System.in);
 
         String msg = "msg1";
 
@@ -35,8 +35,6 @@ public class Calculator {
             }
 
             System.out.println("더 계산하시겠습니까? (exit 입력시 종료)");
-
-            System.out.println("종료는 exit 입력하세요");
 
             msg = sc.nextLine();
 

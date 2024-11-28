@@ -1,4 +1,4 @@
-package library;
+package library세션강의중요;
 
 public class Book {
     //1 속성(변수)

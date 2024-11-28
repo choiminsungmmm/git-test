@@ -9,15 +9,20 @@ public class Main {
         //color
         //---------
 
-//        Cup cup = new cup();
-//        cupA.name ="sssa";
-//        cupB.color = "red";
+        Cup cupA = new Cup();
+        Cup cupB = new Cup();
+//       cupA.name ="sssd";
+//               cupA.color ="red" ;
+
+        cupA.setName("newName");
 
 
+        cupA.methodA();
 
-        Robot robot = new Robot();
 
-        robot.setLeftLeg(true);
-        robot.setLeftLeg(true);
+//        Robot robot = new Robot();
+//
+//        robot.setLeftLeg(true);
+//        robot.setLeftLeg(true);
     }
 }
