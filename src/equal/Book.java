@@ -1,4 +1,4 @@
-package library;
+package equal;
 
 public class Book {
 }
