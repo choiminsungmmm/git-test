@@ -1,4 +1,4 @@
-package library;
+package 연습용;
 
 public class Main {
 }
